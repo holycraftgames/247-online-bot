@@ -1,0 +1,87 @@
+{
+  "name": "AFK Bot",
+  "bot-account": {
+    "username": "HolyCraft",
+    "password": "",
+    "type": "offline"
+  },
+  "server": {
+    "ip": "51.79.229.20",
+    "port": 11279,
+    "version": "1.20.1",
+    "try-creative": false
+  },
+  "position": {
+    "enabled": true,
+    "x": 0,
+    "y": 100,
+    "z": 0
+  },
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "SoloPlayz"
+    },
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 300,
+      "messages": [
+        "<gradient:#FFD700:#FFA500><bold>✦ HOLYCRAFT NETWORK ✦</bold></gradient> <gray>| <white>Thanks for choosing our server to play! We hope you have an awesome time!</white> <yellow>[✦]</yellow>",
+        "<gradient:#5865F2:#7289DA><bold>DISCORD</bold></gradient> <dark_gray>»</dark_gray> <gray>Join our official Discord community for news & support!</gray> <click:open_url:'https://discord.gg/27bbX7jnRS'><hover:show_text:'<light_purple>Click to join our Discord!'><gold><bold>[CLICK TO JOIN]</bold></gold></hover></click>",
+        "<gradient:#FF0000:#CC0000><bold>YOUTUBE</bold></gradient> <dark_gray>»</dark_gray> <gray>Subscribe to our YouTube channel for updates & videos!</gray> <click:open_url:'https://www.youtube.com/@HolyCraftCommunity'><hover:show_text:'<red>Click to visit our YouTube channel!'><red><bold>[SUBSCRIBE NOW]</bold></red></hover></click>"
+      ]
+    },
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 2000,
+    "max-reconnect-delay": 120000
+  },
+  "movement": {
+    "enabled": true,
+    "circle-walk": {
+      "enabled": true,
+      "radius": 4,
+      "speed": 3000
+    },
+    "look-around": {
+      "enabled": true,
+      "interval": 5000
+    },
+    "random-jump": {
+      "enabled": true,
+      "interval": 10000
+    }
+  },
+  "modules": {
+    "avoidMobs": true,
+    "combat": true,
+    "beds": false,
+    "chat": true,
+    "console-commands": true
+  },
+  "combat": {
+    "attack-mobs": true,
+    "auto-eat": true
+  },
+  "beds": {
+    "pick-up-day": false,
+    "place-night": false
+  },
+  "discord": {
+    "enabled": false,
+    "webhookUrl": "",
+    "events": {
+      "connect": true,
+      "disconnect": true,
+      "chat": false
+    }
+  },
+  "chat": {
+    "respond": true
+  }
+}
