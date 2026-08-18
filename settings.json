@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 5,
       "messages": [
-        "[HOLYCRAFT NETWORK] | Thanks for choosing our server to play! Have fun!",
+        "/tellraw @a [\"\",{\"text\":\"[HOLYCRAFT NETWORK] \",\"color\":\"gold\",\"bold\":true},{\"text\":\"| Thanks for choosing our server!\",\"color\":\"white\"}]",
         "DISCORD -> Join our official Discord: https://discord.gg/27bbX7jnRS",
         "YOUTUBE -> Subscribe to our YouTube channel: https://www.youtube.com/@HolyCraftCommunity"
       ]
