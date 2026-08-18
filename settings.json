@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 5,
       "messages": [
-        "\u00A76\u00A7l[HOLYCRAFT NETWORK]\u00A7r \u00A77| \u00A7fThanks for choosing our server to play! Have fun!",
-        "\u00A79\u00A7lDISCORD\u00A7r \u00A78-> \u00A77Join our official Discord: \u00A7b\u00A7nhttps://discord.gg/27bbX7jnRS",
-        "\u00A7c\u00A7lYOUTUBE\u00A7r \u00A78-> \u00A77Subscribe to our YouTube channel: \u00A7c\u00A7nhttps://www.youtube.com/@HolyCraftCommunity"
+        "[HOLYCRAFT NETWORK] | Thanks for choosing our server to play! Have fun!",
+        "DISCORD -> Join our official Discord: https://discord.gg/27bbX7jnRS",
+        "YOUTUBE -> Subscribe to our YouTube channel: https://www.youtube.com/@HolyCraftCommunity"
       ]
     },
     "chat-log": true,
