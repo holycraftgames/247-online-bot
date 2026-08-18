@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 300,
       "messages": [
-        "/tellraw @a [\"\",{\"text\":\"[HOLYCRAFT NETWORK] \",\"color\":\"gold\",\"bold\":true},{\"text\":\"| Thanks for choosing our server!\",\"color\":\"white\"}]",
+        "/tellraw @a [\"\",{\"text\":\"[HOLYCRAFT SMP] \",\"color\":\"gold\",\"bold\":true},{\"text\":\"| Thanks for choosing our server!\",\"color\":\"white\"}]",
         "/tellraw @a [\"\",{\"text\":\"DISCORD \",\"color\":\"blue\",\"bold\":true},{\"text\":\"-> Join our official Discord: \",\"color\":\"gray\"},{\"text\":\"https://discord.gg/27bbX7jnRS\",\"color\":\"aqua\",\"underlined\":true}]",
         "/tellraw @a [\"\",{\"text\":\"YOUTUBE \",\"color\":\"red\",\"bold\":true},{\"text\":\"-> Subscribe to our YouTube: \",\"color\":\"gray\"},{\"text\":\"https://www.youtube.com/@HolyCraftCommunity\",\"color\":\"red\",\"underlined\":true}]"
       ]
